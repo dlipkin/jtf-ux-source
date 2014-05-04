@@ -59,10 +59,10 @@ if (AdobeEdge.bootstrapLoading) { signaledLoading = true; AdobeEdge.loadResource
 
 loadResources(aLoader, doDelayLoad);
 
-var plSTF="width",ctrPlS="horizontal",minPlW="0",maxPlW=undefined,plWidth="700px",plHeight="400px";
+var plSTF="width",ctrPlS="horizontal",minPlW="0",maxPlW=undefined,plWidth="700px",plHeight="310px";
 
 preContent={dom: [ ]};//simpleContent
 
 dlContent={dom: [ ]};//simpleContent
 
-})( "mantle");
+})( "mantle-animation");

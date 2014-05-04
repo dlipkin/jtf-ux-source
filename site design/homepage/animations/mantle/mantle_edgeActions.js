@@ -16,4 +16,4 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    })("stage");
    //Edge symbol end:'stage'
 
-})(jQuery, AdobeEdge, "mantle");
+})(jQuery, AdobeEdge, "mantle-animation");

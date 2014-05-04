@@ -19,10 +19,10 @@
    }}\
 }",
 	"pref__general__FilterNonAnimatedElements":"false",
-	"pref__general__GenerateSmoothTransitions":"false",
-	"viewStartMs":"7690.0758830011",
-	"pref__general__TimelineGridSize":"1s",
-	"stage-Default Timeline_mark_ms":"-1",
+	"expanded:assets/":"false",
+	"viewStartMs":"-25",
+	"pref__general__AutoKeyframePropertiesArmed":"false",
+	"StageZoomFactor":"98",
 	"symbol_stage":{
 		"dummyStageParentWidth":"550px",
 		"dummyStageParentHeight":"400px",
@@ -105,11 +105,11 @@
 			"timelineTreeOpened":"true",
 			"animationEnabled":"true",
 			"usingMotionPaths":"true"},
-		"element_${_Rectangle3}":{
-			"timelineColor2":"0x168c84",
-			"timelineColor3":"0x2a605c",
+		"element_${_RoundRect}":{
+			"timelineColor2":"0xd35d6e",
+			"timelineColor3":"0x7e4b52",
 			"animationEnabled":"false",
-			"timelineColor":"0x00a096"},
+			"timelineColor":"0xfb657a"},
 		"element_${_factSelection-fact-google}":{
 			"timelineColor2":"0x4fa275",
 			"timelineColor3":"0x456a55",
@@ -142,20 +142,20 @@
 			"timelineColor2":"0xcbbd71",
 			"timelineColor3":"0x7b7652",
 			"timelineColor":"0xeedf79"},
-		"element_${_RoundRect}":{
-			"timelineColor2":"0xd35d6e",
-			"timelineColor3":"0x7e4b52",
+		"element_${_Rectangle3}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
 			"animationEnabled":"false",
-			"timelineColor":"0xfb657a"}},
+			"timelineColor":"0x00a096"}},
 	"TransitionIdCounter":"332",
 	"CompZoomFactor":"100",
 	"viewStartY":"0",
 	"pixelsPerMs":"0.2",
-	"pref__general__TimelineShowGrid":"true",
-	"pref__general__AutoKeyframePropertiesArmed":"false",
-	"usedBOM":"false",
-	"nextElementColorIndex":"7",
-	"stage-Default Timeline_playhead_ms":"8861",
 	"PreloadAudio":"false",
-	"StageZoomFactor":"98",
-	"expanded:assets/":"false"}
+	"stage-Default Timeline_playhead_ms":"1141",
+	"stage-Default Timeline_mark_ms":"-1",
+	"nextElementColorIndex":"7",
+	"pref__general__GenerateSmoothTransitions":"false",
+	"pref__general__TimelineGridSize":"1s",
+	"usedBOM":"false",
+	"pref__general__TimelineShowGrid":"true"}
